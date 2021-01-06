@@ -1,7 +1,7 @@
 //import java.util.*;
 public class LocalSearchNqueen {
     int n;
-    int MAX_N = 1000000;
+    int MAX_N = 10000000;
 
     int[] rightUp1 = new int[MAX_N*2];  //计算冲突
     int[] rightDown1 = new int[MAX_N*2];
