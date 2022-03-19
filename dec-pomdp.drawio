@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T08:12:21.076Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NfbUyKApxsbFzRN0ZhNP" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T08:13:11.496Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="P7X5L8w-9B142DcwRpFR" version="17.0.0" type="github">
   <diagram id="hWz_SNzUBFFIVMkBRD-k" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="NXF07AQHCv1ULebbsSob-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NXF07AQHCv1ULebbsSob-4" target="NXF07AQHCv1ULebbsSob-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NXF07AQHCv1ULebbsSob-4" value="$$o_{0}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NXF07AQHCv1ULebbsSob-4" value="观察值" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NXF07AQHCv1ULebbsSob-7" value="&lt;span&gt;$$a_{0}$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -44,7 +44,7 @@
         <mxCell id="NXF07AQHCv1ULebbsSob-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NXF07AQHCv1ULebbsSob-12" target="NXF07AQHCv1ULebbsSob-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NXF07AQHCv1ULebbsSob-12" value="$$o_{1}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NXF07AQHCv1ULebbsSob-12" value="观察值" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="280" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NXF07AQHCv1ULebbsSob-13" value="&lt;span&gt;$$a_{1}$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -103,6 +103,12 @@
         </mxCell>
         <mxCell id="NXF07AQHCv1ULebbsSob-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;$$s_{1}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="188" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NXF07AQHCv1ULebbsSob-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;$$o_{0}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NXF07AQHCv1ULebbsSob-32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;$$o_{1}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="300" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
