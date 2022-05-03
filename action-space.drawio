@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T11:42:10.596Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="3CB67L2QyV7VppN-At2V" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T11:45:47.804Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="RWxgYYK6rqXUlG94bbxx" version="17.4.4" type="github">
   <diagram id="wZBX_qP1Bf_u1HNPw5r9" name="Page-1">
     <mxGraphModel dx="1065" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -65,6 +65,42 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="721.5799999999999" y="241" as="sourcePoint" />
             <mxPoint x="721.5799999999999" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-35" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;卸载任务百分比为&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="24.5" y="62" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-37" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;$$z_{0}$$&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="18" y="84" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-38" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="150" as="sourcePoint" />
+            <mxPoint x="55.07999999999993" y="119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-39" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;卸载任务百分比为&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="139.5" y="61" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-40" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;$$z_{k}$$&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="133" y="83" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-41" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="149" as="sourcePoint" />
+            <mxPoint x="170.07999999999993" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-43" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;卸载任务百分比为&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="61" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-44" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;$$z_{|\mathcal{Z}-1|}$$&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="247" y="83" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-45" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="149" as="sourcePoint" />
+            <mxPoint x="284.0799999999999" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
