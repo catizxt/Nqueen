@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T11:39:26.857Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="hPw4zA8FuOB6I9MyMh24" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T11:42:10.596Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="3CB67L2QyV7VppN-At2V" version="17.4.4" type="github">
   <diagram id="wZBX_qP1Bf_u1HNPw5r9" name="Page-1">
-    <mxGraphModel dx="865" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1065" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a6XNYdV735CAFfSAR4Dt-14" value="$$b_{0\times |Z|+|Z|-1}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-14" value="$$b_{0\times |\mathcal{Z}|+|\mathcal{Z}|-1}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="152" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a6XNYdV735CAFfSAR4Dt-15" value="$$b_{0\times |Z|+0}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-15" value="$$b_{0\times |\mathcal{Z}|+0}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="10" y="154" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a6XNYdV735CAFfSAR4Dt-16" value="$$b_{0\times |Z|+k}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-16" value="$$b_{0\times |\mathcal{Z}|+k}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="126" y="153" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a6XNYdV735CAFfSAR4Dt-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -19,13 +19,13 @@
         <mxCell id="a6XNYdV735CAFfSAR4Dt-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="211" y="184" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a6XNYdV735CAFfSAR4Dt-19" value="$$b_{j\times |Z|+|Z|-1}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-19" value="$$b_{j\times |\mathcal{Z}|+|\mathcal{Z}|-1}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="576" y="154" width="81" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="a6XNYdV735CAFfSAR4Dt-20" value="$$b_{j\times |Z|+0}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-20" value="$$b_{j\times |\mathcal{Z}|+0}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="352" y="152" width="86" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="a6XNYdV735CAFfSAR4Dt-21" value="$$b_{j\times |Z|+k}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-21" value="$$b_{j\times |\mathcal{Z}|+k}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="464" y="154" width="82" height="82" as="geometry" />
         </mxCell>
         <mxCell id="a6XNYdV735CAFfSAR4Dt-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="a6XNYdV735CAFfSAR4Dt-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="183" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a6XNYdV735CAFfSAR4Dt-25" value="$$b_{|M|-1&lt;br&gt;\times |Z|+|Z|}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-25" value="$$b_{|\mathcal{M}|-1&lt;br&gt;\times |\mathcal{Z}|+|\mathcal{Z}|}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="682" y="154" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a6XNYdV735CAFfSAR4Dt-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
