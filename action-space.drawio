@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T11:35:13.245Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="cWFOjlhaUVgxPAw-Dzts" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T11:38:14.827Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="c4Pn3iAgJDAOxRMUGc05" version="17.4.4" type="github">
   <diagram id="wZBX_qP1Bf_u1HNPw5r9" name="Page-1">
     <mxGraphModel dx="865" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -42,6 +42,18 @@
         </mxCell>
         <mxCell id="a6XNYdV735CAFfSAR4Dt-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="653" y="183" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontFamily=Helvetica;fontSize=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="157" y="148" width="20" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontFamily=Helvetica;fontSize=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="495" y="147" width="20" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-29" value="&lt;span style=&quot;font-size: 14px&quot;&gt;将任务卸载到服务器0&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="111" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6XNYdV735CAFfSAR4Dt-30" value="&lt;span style=&quot;font-size: 14px&quot;&gt;将任务卸载到服务器&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="449" y="268" width="104" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
