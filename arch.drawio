@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T11:12:54.062Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="a6Wxr25oAiJgFYP_m5oC" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T04:23:53.803Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="HCEAVyeDoeN9o2zYg0nd" version="17.4.4" type="github">
   <diagram id="8LqcWbh-K-a9OpP2giRa" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -384,8 +384,8 @@
         <mxCell id="_yVAc_mF-bW11WZnQABi-97" value="$$a^{&#39;t+1}=\pi_{\theta&#39;}(o_{i}^{t+1},h_{i}^{t})$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=14;shadow=0;sketch=0;glass=0;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="747.25" width="150" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="_yVAc_mF-bW11WZnQABi-109" value="The detail of Actor" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="99" y="529" width="110" height="20" as="geometry" />
+        <mxCell id="_yVAc_mF-bW11WZnQABi-109" value="The detail of actor network" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="85" y="529" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yVAc_mF-bW11WZnQABi-115" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=1.001;exitY=0.574;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
